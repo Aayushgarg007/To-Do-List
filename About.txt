@@ -1,0 +1,8 @@
+responsive
+as we hover over things we get nice delete button with trash can icon to delete the to-do entirley
+if we click on to-do it will strike-through
+when delete is clicked the to-do first fadeout then is removed from there
+a row for adding new to-do list, the added to-dos displayed on the last
+the row for adding to-dos can be hide using a button
+
+
